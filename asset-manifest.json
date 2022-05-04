@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/webdevportfolio/static/css/main.fb29c414.css",
+    "main.js": "/webdevportfolio/static/js/main.d4a3988b.js",
+    "static/js/787.1ed0c42c.chunk.js": "/webdevportfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/helvetica-neu.ttf": "/webdevportfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/webdevportfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/webdevportfolio/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/webdevportfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/webdevportfolio/index.html",
+    "main.fb29c414.css.map": "/webdevportfolio/static/css/main.fb29c414.css.map",
+    "main.d4a3988b.js.map": "/webdevportfolio/static/js/main.d4a3988b.js.map",
+    "787.1ed0c42c.chunk.js.map": "/webdevportfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb29c414.css",
+    "static/js/main.d4a3988b.js"
+  ]
+}
