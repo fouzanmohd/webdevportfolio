@@ -2,7 +2,7 @@
     z-index: 0;
     width: 400px;
     height: 609px;
-    opacity: 0;
+    opacity: 1;
     position: absolute;
     top: 0;
     right: 15%;
@@ -11,10 +11,10 @@
     margin: auto;
   
     svg {
-      width: 100%;
+      width: 90%;
       height: auto;
       bottom: 0;
-      transform: rotateZ(30deg) !important;
+      transform: rotateZ(20deg) !important;
     }
   
     .solid-logo {
@@ -24,9 +24,10 @@
       bottom: auto;
       left: 0;
       margin: auto;
-      width: 100%;
-      opacity: 0;
-      transform: rotateZ(30deg) !important;
+      width: 90%;
+      
+      opacity: 1;
+      transform: rotateZ(20deg) !important;
       z-index: 1;
     }
   }
